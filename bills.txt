@@ -1,0 +1,10 @@
+----Bill----
+Date: 24-10-2026 18:14
+Cement x130= 26000
+Rod x1000= 100000
+Tiles x200= 60000
+Paint x50= 7500
+Subtotal:193500
+Discount: 9675.00
+Your total amount is 183825.00
+
